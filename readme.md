@@ -12,4 +12,5 @@ git command ที่ได้เรียน
 
 `git commit -m '...'`
 
-`git commit -a -m '...'` 
+**for commit with modified files**
+`git commit -a -m '...'`  
