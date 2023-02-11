@@ -11,3 +11,5 @@ git command ที่ได้เรียน
 `git log`
 
 `git commit -m '...'`
+
+`git commit -a -m '...'` 
