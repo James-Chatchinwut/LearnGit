@@ -15,3 +15,5 @@ git command ที่ได้เรียน
 **for commit with modified files**
 
 `git commit -a -m '...'`  
+
+หรือจะใช้ git add แล้วค่อย commit ก็ได้เหมือนกัน 
